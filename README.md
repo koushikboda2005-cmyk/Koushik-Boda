@@ -1,13 +1,13 @@
 # 👩‍💻 Hi, I'm Indumathi Banoth  
-*A passionate learner turning ideas into impactful code.*
+*Cloud & DevOps-focused Developer building scalable, cloud-native systems.*
 
 
 ### 🚀 About Me  
-- 🎓 **B.Tech CSE Student** | Aspiring Professional Developer  
-- 💡 Learning to build efficient programs and real-world projects that inspire growth  
-- 🌐 **Frontend Developer → Exploring Backend** to become a Full-Stack Web Developer  
-- 🐍 Skilled in **Python**, **Java**, **SQL**, and **DSA**, practicing daily to master logical thinking  
-- 🤖 Excited to explore **Artificial Intelligence**, **Machine Learning**, and **Recommender Systems**  
+- 🎓 **B.Tech CSE Student** | Future Cloud Computing & DevOps system Engineer
+- 💻 Frontend Developer with experience in AI-based automation systems
+- ☁️ Currently mastering **Cloud Computing**, **DevOps Architecture**, **CI/CD**, and containerization 
+- ⚙️ Focused on backend systems, APIs, authentication, and scalable infrastructure design
+- 🧠 Strong foundation in **Python** , **Java**, **SQL**, and **Data Structures**
 - 🌱 Building a strong foundation to become a confident, skilled, and global-ready developer  
 
 
@@ -31,28 +31,32 @@
 
 ### 📚 Currently Learning & Future to Explore  
 #### 🎯 Current Focus
-![Frontend Projects](https://img.shields.io/badge/Frontend%20Projects-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Backend Development](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=node.js&logoColor=white)
-![Databases](https://img.shields.io/badge/Database-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cloud_Infrastructure](https://img.shields.io/badge/Cloud_Infrastructure-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Backend_Development](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![Database](https://img.shields.io/badge/Database-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![AI_Automation](https://img.shields.io/badge/AI_Automation-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 
-#### 🚀 Foundation & Growth Path
-- 🧩 **Foundation & Web Full-Stack** — mastering frontend, backend, and deployment  
-- ⚙️ **Core Product & Backend + DB** — understanding data flow and scalable systems  
-- 🤖 **AI / ML + Recommenders** — building intelligent, personalized systems  
-- 💡 **Build Fit & Rich MVPs** — turning ideas into working prototypes  
-- 🎨 **Polish & Improve UX/UI** — making projects look professional  
-- 🧠 **Internship & Real-world Projects** — gaining hands-on experience  
-- 🎓 **MS Prep & German** — preparing for global education and career growth  
+#### 🚀 Cloud Computing & DevOps Architecture
+- 🧩 **CI/CD pipeline design**  — automating build, test, and deployment workflows
+- ⚙️ **Containerization (Docker)** — packaging applications into isolated, reproducible environments
+- 🤖 **Deployment workflows** — managing build → test → release lifecycle across environments
+- 💡 **Backend + Database integration** — connecting APIs with structured, secure data systems
+- 🎨 **Scalable system fundamentals** — building stateless, modular services designed for growth and load handling
+
+ #### ⚙️ Backend Engineering
+![APIs](https://img.shields.io/badge/APIs-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white)
+![Authentication](https://img.shields.io/badge/Authentication-6A1B9A?style=for-the-badge&logo=auth0&logoColor=white)
+![Data_Flow_Design](https://img.shields.io/badge/Data_Flow_Design-00897B?style=for-the-badge&logo=databricks&logoColor=white)
+![System_Reliability](https://img.shields.io/badge/System_Reliability-2E7D32?style=for-the-badge&logo=icloud&logoColor=white)
 
 
-### 🎯 Goals  
-- 🚀 Master **Full-Stack Web Development** with solid fundamentals  
-- 💻 Build impactful **AI/ML-powered projects** that add real value  
-- ☁️ Gain expertise in **Database and Cloud Integration**  
-- 💼 Secure **Internships** to apply skills in professional environments  
-- 🧠 Prepare for **MS Abroad** with strong technical and language skills (German 🇩🇪)  
+### 🎯 Career Direction
+- ☁️ Build production-ready cloud-native applications 
+- ⚙️ Transition from frontend developer → DevOps engineer → cloud architect mindset  
+- 💼 Secure **Internships** in backend / cloud / DevOps domains 
+- 🧠 Prepare for **MS Abroad** with strong system-level engineering skills
 - 🌍 Grow into a **confident, creative, and globally-ready developer**
 
 
@@ -64,6 +68,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/indumathi_1257)
 
 
-⭐ *“Code with curiosity. Build with purpose. Grow with confidence.”*  
+⭐ *“Build systems. Automate workflows. Design for scale.”*  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Banoth-Indumathi&label=Profile%20Views&color=blue&style=flat-square)
